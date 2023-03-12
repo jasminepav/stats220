@@ -10,6 +10,10 @@
   * A meme
   * An animated GIF
 
+## My website
+
+https://jasminepav.github.io/stats220/
+
 ## Contents
 
 * **My meme**
