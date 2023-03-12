@@ -13,6 +13,8 @@
 ## Contents
 
 1. Meme
+ * Inspiration
+ * Code
 2. Animated GIF
-3. HTML
-4. Project report
+ *Inspiration
+  *Code
