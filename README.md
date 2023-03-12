@@ -12,11 +12,11 @@
 
 ## Contents
 
-* My meme
+* **My meme**
 1. Inspiration
 2. Meme
 3. Code
-* My animated GIF
+* **My animated GIF**
 1. Inspiration
 2. GIF
 3. Code
