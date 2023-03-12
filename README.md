@@ -12,9 +12,11 @@
 
 ## Contents
 
-1. Meme
+1. My meme
  * Inspiration
+ * Meme
  * Code
-2. Animated GIF
- *Inspiration
-  *Code
+2. My animated GIF
+ * Inspiration
+ * GIF
+ * Code
